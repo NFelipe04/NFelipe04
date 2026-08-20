@@ -4,7 +4,7 @@
 
 ### Minhas principais competencias são em `Python`
   Uso MySQL, C, Java, HTML, CSS, JavaScript para projetos academicos
-## Meu site com meu portifolio ---> [`Felipe.Dev`](http://127.0.0.1:5500/index.html)
+## Meu site com meu portifolio ---> [`Felipe.Dev`](https://nfelipe04.github.io/Gitsite/)
 <!--
 **NFelipe04/NFelipe04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
